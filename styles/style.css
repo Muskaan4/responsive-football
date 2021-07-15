@@ -16,7 +16,7 @@ header{
     grid-template-columns: repeat(2, 1fr);
     padding-top: 153px;
     padding-bottom: 86px;
-    background-color: #2D25A0;
+    background-color: #2B2D2f;
     color: white;
     transition: 1s;
 }
